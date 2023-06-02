@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm João</h1>
 <h3 align="center">A backpacker from Brazil traveling around </h3>
 
-- 🌱 I’m currently learning **Javascript**
-
 - 📫 How to reach me **contato.cossta@gmail.com**
 
 - ⚡ Fun fact **I had the unique experience of backpacking across Brazil and Europe, which broadened my horizons.**
